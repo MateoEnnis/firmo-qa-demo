@@ -4,6 +4,8 @@ Automated E2E tests for [firmo-site.vercel.app](https://firmo-site.vercel.app).
 
 **60 tests · 3 browsers (Chromium, Firefox, Mobile Chrome) · 100% pass rate**
 
+**[→ View live test report](https://mateoennis.github.io/firmo-qa-demo/)**
+
 ## What's tested
 
 | Suite | Tests | Coverage |
